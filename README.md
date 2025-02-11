@@ -7,4 +7,8 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/tarielevaaltynai/30github/tree/master/0006-zigzag-conversion) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/tarielevaaltynai/30github/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
