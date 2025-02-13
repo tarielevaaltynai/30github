@@ -25,6 +25,6 @@ public:
             }
         }
 
-        return result;        
+         return return;//return results;
     }
 };
