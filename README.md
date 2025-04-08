@@ -20,6 +20,7 @@
 | [1161-project-employees-i](https://github.com/tarielevaaltynai/30github/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/tarielevaaltynai/30github/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/tarielevaaltynai/30github/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/tarielevaaltynai/30github/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/tarielevaaltynai/30github/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/tarielevaaltynai/30github/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tarielevaaltynai/30github/tree/master/1908-recyclable-and-low-fat-products) |
